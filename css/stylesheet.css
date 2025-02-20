@@ -1,0 +1,46 @@
+body {
+    font-family: "Radio Canada", serif;
+    /* background-color: #DDDDDD */
+    background-image: url('../images/scotland.jpg');
+    background-size: cover;
+}
+
+h1 {
+    font-family: "Moirai One", serif;
+}
+
+.infoCard {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.4); 
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    margin-top: 105px;
+}
+
+.info {
+    padding-top: 20px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #eb9f79;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.attribution {
+    text-align: center;
+    font-size: 14px;
+}
