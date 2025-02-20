@@ -1,5 +1,5 @@
 # SimpleWeatherApp
-A 'Simple Weather App' that can be deployed with the use of a OpenWeatherMap API Key
+A 'Simple Weather App' that can be deployed with the use of an OpenWeatherMap API Key
 
 # Setup
 
